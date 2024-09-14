@@ -15,7 +15,7 @@
             Tienda MAS
         </a>
         <span class="navbar-text">
-            texto
+            <i class="bi bi-facebook"></i>
         </span>
     </nav>
     <div id="carouselExampleCaptions" class="carousel slide" data-ride="carousel">
